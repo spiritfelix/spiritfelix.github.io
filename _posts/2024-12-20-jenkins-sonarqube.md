@@ -1,4 +1,5 @@
 ---
+layout: post
 date: '2024-12-20T11:22:08+08:00'
 draft: false
 slug: 'jenkins-sonarqube'
